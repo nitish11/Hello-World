@@ -1,8 +1,4 @@
-hello
+Hello-World
 =====
+The github repo that containes the source code to say "Hello World" in 50 programming languages. 
 
-testing repo
-
-
-
-This is testing github app.
